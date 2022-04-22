@@ -1,2 +1,2 @@
-# mywebsite
-This is a test.
+# MyWebsite
+This is an test website.
